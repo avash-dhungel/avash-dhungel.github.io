@@ -1,0 +1,20 @@
+{
+  "slug": "strength-of-materials",
+  "name": "Strength of Materials",
+  "code": "CE 602",
+  "short": "How materials deform and fail under load — the bridge between theory and safe design.",
+  "pdfs": [
+    { "label": "Topic summary – stress & strain (PDF)", "url": "/docs/strength-of-materials/stress-strain.pdf", "size": "1.8 MB" }
+  ],
+  "importantTopics": [
+    "Stress, strain and Hooke's law",
+    "Axial deformation and compound bars",
+    "Shear force and bending moment diagrams",
+    "Bending stress in beams"
+  ],
+  "previousYearQuestions": [
+    "Derive the relation between three elastic constants E, G and K.",
+    "Draw SFD and BMD for a simply supported beam with a UDL and a point load."
+  ],
+  "studyGuide": "Master the stress–strain curve and the elastic constants first — every later chapter (beams, torsion, columns) reuses the same conceptual machinery."
+}

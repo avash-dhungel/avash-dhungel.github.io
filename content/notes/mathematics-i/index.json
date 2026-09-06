@@ -1,0 +1,20 @@
+{
+  "slug": "mathematics-i",
+  "name": "Mathematics I",
+  "code": "SH 501",
+  "short": "Calculus, matrices and complex numbers — the algebra engine of first-year engineering.",
+  "pdfs": [
+    { "label": "Formula sheet – calculus (PDF)", "url": "/docs/mathematics-i/formula-sheet.pdf", "size": "0.9 MB" }
+  ],
+  "importantTopics": [
+    "Limits, continuity and differentiability",
+    "Applications of derivatives (maxima/minima)",
+    "Taylor and Maclaurin series",
+    "Matrices: rank, inverse, eigenvalues"
+  ],
+  "previousYearQuestions": [
+    "Using Maclaurin's theorem, expand tan x up to the term in x⁵.",
+    "Find the eigenvalues and eigenvectors of a given 3×3 matrix."
+  ],
+  "studyGuide": "Do every problem twice: once in class, once from memory the same evening. Maths marks in IOE exams are won by speed, which only practice builds."
+}

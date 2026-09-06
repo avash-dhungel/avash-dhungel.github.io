@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avashdhungel.com.np/sitemap.xml

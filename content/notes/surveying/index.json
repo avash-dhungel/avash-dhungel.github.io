@@ -1,0 +1,20 @@
+{
+  "slug": "surveying",
+  "name": "Surveying",
+  "code": "CE 601",
+  "short": "Measuring and mapping the land — the discipline that anchors every civil project.",
+  "pdfs": [
+    { "label": "Field practice – levelling (PDF)", "url": "/docs/surveying/field-levelling.pdf", "size": "1.4 MB" }
+  ],
+  "importantTopics": [
+    "Chain surveying and offsets",
+    "Levelling instruments and procedures",
+    "Traversing and theodolite",
+    "Contouring and its applications"
+  ],
+  "previousYearQuestions": [
+    "Explain the principle of levelling and the temporary adjustment of an automatic level.",
+    "Differentiate between chain triangulation and traversing."
+  ],
+  "studyGuide": "Do the field exercises. Surveying is the one subject where hands-on practice beats reading — the theory only makes sense once you've handled the instruments."
+}

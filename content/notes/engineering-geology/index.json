@@ -1,0 +1,20 @@
+{
+  "slug": "engineering-geology",
+  "name": "Engineering Geology",
+  "code": "CE 604",
+  "short": "Rocks, minerals and how the ground behaves before you pour concrete.",
+  "pdfs": [
+    { "label": "Unit 1 – Introduction (PDF)", "url": "/docs/engineering-geology/syllabus.pdf", "size": "2.1 MB" }
+  ],
+  "importantTopics": [
+    "Rock types and the rock cycle",
+    "Physical and chemical weathering",
+    "Identification of common minerals",
+    "Igneous structures and their engineering significance"
+  ],
+  "previousYearQuestions": [
+    "Describe the rock cycle and explain the importance of geology in civil engineering.",
+    "Distinguish between cleavage and hardness in mineral identification."
+  ],
+  "studyGuide": "Start with mineral identification, since rock classification builds on it. Practice identifying at least 10 common minerals from hand specimens before theory-heavy units."
+}

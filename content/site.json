@@ -1,0 +1,65 @@
+{
+  "name": "Avash Dhungel",
+  "firstName": "Avash",
+  "domain": "avashdhungel.com.np",
+  "role": "Engineering Student · Pulchowk Campus",
+  "tagline": "Engineering Student • Pulchowk Campus • Knowledge Sharing",
+  "shortBio": "I'm an engineering student at Pulchowk Campus, Institute of Engineering (IOE), Nepal. I document my academic journey, write concise engineering notes, build small projects, and share resources for fellow students.",
+  "about": {
+    "intro": "I'm Avash Dhungel, an engineering student at Pulchowk Campus — one of Nepal's premier engineering institutions under the Institute of Engineering (IOE). This site is my digital home: a living record of my studies, my projects, and my attempt to make engineering notes and resources genuinely useful for other students.",
+    "sections": [
+      {
+        "title": "Why this site exists",
+        "body": "Engineering courses move fast and notes get scattered — PDFs on class groups, whiteboard photos, half-finished handwritten pages. I'm putting my organized, reviewed notes online so that a student who doesn't know me personally can still benefit from them, and so my own study materials have one stable home."
+      },
+      {
+        "title": "What I'm interested in",
+        "body": "Core engineering sciences right now: surveying, strength of materials and engineering geology. Beyond coursework I'm drawn to how software and electronics shape engineering practice — building tools that make studying and fieldwork easier."
+      },
+      {
+        "title": "What you'll find here",
+        "body": "Subject-wise engineering notes, previous-year questions, study guides, project write-ups, a documentation of my academic journey, and videos where I explain the things I'm learning."
+      }
+    ]
+  },
+  "education": {
+    "degree": "Bachelor of Engineering (BE)",
+    "campus": "Pulchowk Campus, Institute of Engineering (IOE)",
+    "location": "Lalitpur, Nepal"
+  },
+  "email": "avash@avashdhungel.com.np",
+  "location": "Lalitpur, Nepal",
+  "availability": "Open to internships, study collaborations and note-review requests.",
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/avash-dhungel",
+      "handle": "@avash-dhungel"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@Er.AvashDhungel",
+      "handle": "@Er.AvashDhungel"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/avash-dhungel/",
+      "handle": "in/avash-dhungel"
+    }
+  ],
+  "youtube": {
+    "handle": "@Er.AvashDhungel",
+    "url": "https://www.youtube.com/@Er.AvashDhungel",
+    "featuredVideoId": "REPLACE_WITH_VIDEO_ID"
+  },
+  "nav": [
+    { "label": "Home", "to": "/home" },
+    { "label": "About", "to": "/about" },
+    { "label": "Notes", "to": "/notes" },
+    { "label": "Projects", "to": "/projects" },
+    { "label": "Resources", "to": "/resources" },
+    { "label": "Journey", "to": "/journey" },
+    { "label": "Blog", "to": "/blog" },
+    { "label": "Contact", "to": "/contact" }
+  ]
+}

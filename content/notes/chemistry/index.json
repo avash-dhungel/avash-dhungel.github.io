@@ -1,0 +1,20 @@
+{
+  "slug": "chemistry",
+  "name": "Engineering Chemistry",
+  "code": "SH 503",
+  "short": "Materials, electrochemistry and reaction engineering fundamentals.",
+  "pdfs": [
+    { "label": "Unit 2 – electrochemistry (PDF)", "url": "/docs/chemistry/electrochemistry.pdf", "size": "1.2 MB" }
+  ],
+  "importantTopics": [
+    "Electrochemical cells and the Nernst equation",
+    "Corrosion and its prevention",
+    "Water treatment and hardness of water",
+    "Fuels and combustion calculations"
+  ],
+  "previousYearQuestions": [
+    "Derive the Nernst equation and apply it to a Daniel cell.",
+    "Explain the causes of boiler corrosion and describe preventive measures."
+  ],
+  "studyGuide": "Chemistry chapters map neatly onto engineering problems: electrochemistry → batteries & corrosion, water chemistry → boiler operation. Study it chapter-to-device, not in isolation."
+}

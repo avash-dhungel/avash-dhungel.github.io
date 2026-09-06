@@ -1,0 +1,20 @@
+{
+  "slug": "physics",
+  "name": "Engineering Physics",
+  "code": "SH 502",
+  "short": "Quantum basics, waves, electricity and the physics behind the machines.",
+  "pdfs": [
+    { "label": "Unit 3 summary – waves & optics (PDF)", "url": "/docs/physics/waves-optics.pdf", "size": "1.1 MB" }
+  ],
+  "importantTopics": [
+    "Simple harmonic motion and damped oscillations",
+    "Wave motion — superposition and interference",
+    "Basic quantum mechanics and the photoelectric effect",
+    "Bohr's model and atomic spectra"
+  ],
+  "previousYearQuestions": [
+    "Derive an expression for the energy of a quantum harmonic oscillator.",
+    "State and explain the laws of photoelectric emission."
+  ],
+  "studyGuide": "Link every chapter back to an instrument or engineering device — interference → thin films → lens coatings. Physics sticks when it explains something you can touch."
+}

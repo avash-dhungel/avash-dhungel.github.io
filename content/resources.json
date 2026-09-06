@@ -1,0 +1,75 @@
+{
+  "intro": "Hand-picked links I actually use while studying at Pulchowk — official IOE materials, my own notes, and free tools that keep me organized. Replace or extend these as you go; this file is your own favorites list.",
+  "categories": [
+    {
+      "name": "Official & Syllabus",
+      "items": [
+        {
+          "title": "IOE — Institute of Engineering",
+          "url": "https://ioe.edu.np",
+          "note": "Official IOE gateway: notices, syllabus, exam routines and results."
+        },
+        {
+          "title": "TU — Tribhuvan University",
+          "url": "https://tu.edu.np",
+          "note": "Affiliating university; semester results and academic regulations."
+        },
+        {
+          "title": "Pulchowk Campus",
+          "url": "https://pcampus.edu.np",
+          "note": "My campus — departments, faculty and campus notices."
+        }
+      ]
+    },
+    {
+      "name": "Past Questions (PYQs)",
+      "items": [
+        {
+          "title": "Exam routine & old questions — department notice board",
+          "url": "https://ioe.edu.np",
+          "note": "Your department notice board page is the first place past questions are published."
+        },
+        {
+          "title": "Old-degree question archives shared by seniors",
+          "url": "https://github.com/avashdhungel",
+          "note": "Scanned as PDFs in my public drive; ask me for the current-year ones."
+        }
+      ]
+    },
+    {
+      "name": "Study Tools",
+      "items": [
+        {
+          "title": "Obsidian",
+          "url": "https://obsidian.md",
+          "note": "Markdown knowledge base — where these notes are born before they land here."
+        },
+        {
+          "title": "GeoGebra",
+          "url": "https://geogebra.org",
+          "note": "Graphing and geometry tooling that saves hours in maths and surveying."
+        },
+        {
+          "title": "Zotero",
+          "url": "https://zotero.org",
+          "note": "Free reference manager for citations and research projects."
+        }
+      ]
+    },
+    {
+      "name": "Student Resources",
+      "items": [
+        {
+          "title": "This site's notes index",
+          "url": "/notes",
+          "note": "My own growing collection — subject-wise notes, PYQs and study guides."
+        },
+        {
+          "title": "Engineering Handbook (PDF)",
+          "url": "/docs/engineering-handbook.pdf",
+          "note": "A compact formula and terminology reference I keep instead of losing my pages."
+        }
+      ]
+    }
+  ]
+}
